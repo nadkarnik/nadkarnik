@@ -5,6 +5,6 @@ I have professional interest in several industries including but not limited to 
 
 This Github page is meant to be a localization of the private, academic, and non-classified projects and/or coursework that I have participated in since beginning my Electrical Engineering undergraduate education. 
 
-Thank you for reading about me and looking at my work, 
+Thank you for reading about me and looking at my work! For inquiries of any kind I can be reached at 860-876-0690 or kiran.nadkarni@uconn.edu 
 
 Kiran D. Nadkarni
