@@ -1,5 +1,5 @@
 Hello, my name is Kiran. I am a recent (05/2021) graduate of the Engineering school of the University of Connecticut in Storrs, CT. 
-I graduated with a Bachelor of Science in Electrical Engineering. I am currently employed by The Boeing Company as a Support Equipment Design Engineer in St. Louis, MO. 
+I graduated with a Bachelor of Science in Electrical Engineering. I am currently employed by The Boeing Company as a Electrical Design & Analysis Engineer based in St. Louis, MO. 
 
 I have professional & academic interest in several areas including but not limited to Semiconductor Device Design and Development, Defense (Aerospace / Naval), Power Systems (Supercapacitors, Microgrids), Control Systems Engineering, Embedded Systems Programming, and Computer Architecture. During my time as an undergraduate, I participated in Atomic Layer / Thin Film Deposition research on semiconductor substrates. My short term plans include attending an M.S. program in Electrical or Computer Engineering in the next several years as I desire a diverse set of graduate academic coursework and research experience to supplement my time in industry.  
 
